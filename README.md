@@ -1,7 +1,7 @@
-#### Welcome To  Cyber World 
+# Welcome To  Cyber World 
 ![Welcome To  Cyber World ](https://pbs.twimg.com/profile_banners/1532119015686037505/1659471486/1080x360)
 
-Cyber World provides a decentralized financial asset which rewards it’s users with 0.018% increase in their assets, every 10 minutes.
+### Cyber World provides a decentralized financial asset which rewards it’s users with 0.018% increase in their assets, every 10 minutes.
 
 The Cyber World reward generation is a unique protocol that has advanced profit making. The Cyber World rewarding protocol generates and distributes a 0.018% reward every 10 minutes for all active users. The protocol equips RFI properties.
 
