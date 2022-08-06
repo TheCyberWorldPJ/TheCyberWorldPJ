@@ -12,6 +12,9 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TheCyberWorldPJ&show_icons=true&count_private=true)  
 
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=TheCyberWorldPJ)  
+
+
 
 
 
@@ -29,7 +32,7 @@
 
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=TheCyberWorldPJ)  
+
 
 ![GitHub metrics](https://metrics.lecoq.io/TheCyberWorldPJ)  
 
