@@ -6,6 +6,8 @@
 
 **CyberWorld is classified as a native token on the protocol, which also serves as the network’s “native currency.” The protocol equips RFI properties and is equipped with innovative technologies and features that other forks lack. The CyberWorld platform is specially designed to be automated and extremely efficient. Cyberworld today announced that its platform provides users with an 0.018% increase in their assets every 10 minutes. All rebase interests are paid in “$CyberWorld token” along with many other utilities, also providing the facility of protocol governance.**
 
+**“One of the most exciting aspects of the Cyber World Protocol is an automatic token burn system known as The Burning Pit,” said the spokesperson for CyberWorld. “This prevents the circulating supply from becoming unmanageable.” “The Burning Pit consumes 2.0 percent of all $Cyber World Token market sales and is consumed in a single transaction. $CyberWorld holders now have a simple and elegant staking and rewards system” he further added.**
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TheCyberWorldPJ&show_icons=true&count_private=true)  
 
