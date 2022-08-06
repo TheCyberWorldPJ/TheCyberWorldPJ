@@ -4,9 +4,9 @@
 
 
 
-**Cyber World provides a decentralized financial asset which rewards it’s users with 0.018% increase in their assets, every 10 minutes. The Cyber World reward generation is a unique protocol that has advanced profit making. The Cyber World rewarding protocol generates and distributes a 0.018% reward every 10 minutes for all active users.
+**Cyber World provides a decentralized financial asset which rewards it’s users with 0.018% increase in their assets, every 10 minutes. The Cyber World reward generation is a unique protocol that has advanced profit making. The Cyber World rewarding protocol generates and distributes a 0.018% reward every 10 minutes for all active users.**
 
-**The protocol equips RFI properties. This protocol is equipped with innovative technologies and features that other forks lack. It is specially designed to be automated and efficient.
+**The protocol equips RFI properties. This protocol is equipped with innovative technologies and features that other forks lack. It is specially designed to be automated and efficient.**
 
 
 
