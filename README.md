@@ -4,9 +4,7 @@
 
 
 
-**Cyber World provides a decentralized financial asset which rewards it’s users with 0.018% increase in their assets, every 10 minutes. The Cyber World reward generation is a unique protocol that has advanced profit making. The Cyber World rewarding protocol generates and distributes a 0.018% reward every 10 minutes for all active users.**
-
-**The protocol equips RFI properties. This protocol is equipped with innovative technologies and features that other forks lack. It is specially designed to be automated and efficient.**
+**CyberWorld is classified as a native token on the protocol, which also serves as the network’s “native currency.” The protocol equips RFI properties and is equipped with innovative technologies and features that other forks lack. The CyberWorld platform is specially designed to be automated and extremely efficient. Cyberworld today announced that its platform provides users with an 0.018% increase in their assets every 10 minutes. All rebase interests are paid in “$CyberWorld token” along with many other utilities, also providing the facility of protocol governance.**
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TheCyberWorldPJ&show_icons=true&count_private=true)  
